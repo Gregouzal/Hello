@@ -1,7 +1,7 @@
 # Hello
 
 🪐 Hello
-Hi, I'm Grégoire Alleaume. I'm a simple tech recruiter making his way through the galaxy.
+I'm Grégoire Alleaume. I'm a simple tech recruiter making his way through the galaxy.
 
 I recruit developers in Nouvelle-Aquitaine for different types of companies (start-ups, SMEs, scale-ups, large groups).
 
